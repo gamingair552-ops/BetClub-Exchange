@@ -35,7 +35,7 @@ def keep_alive():
     t.start()
 
 # IDs
-OWNER_ID =   # Replace with @rjhemant Discord ID
+OWNER_ID = 1288745766340263954  # Replace with @rjhemant Discord ID
 
 # Check if the user is an administrator
 def is_admin(ctx):
@@ -168,3 +168,4 @@ keep_alive()
 # Run bot (replace with your token)
 TOKEN = ""
 bot.run(TOKEN)
+
