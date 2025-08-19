@@ -166,6 +166,7 @@ async def help(ctx):
 keep_alive()
 
 # Run bot (replace with your token)
-TOKEN = ""
+TOKEN = "DISCORD_BOT_TOKEN"
 bot.run(TOKEN)
+
 
